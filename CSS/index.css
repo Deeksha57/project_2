@@ -1,0 +1,62 @@
+h1  {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color:rgb(163, 150, 150);
+    font-size: 30px;
+    
+}
+.socials {
+    margin-left: 590px;
+    width: auto;
+}
+#video {
+    width: 100%;
+    position: absolute;
+    height: 390px;
+    object-fit: cover;
+    z-index: -100;
+    box-shadow: 10px 5px 10px 8px #888;
+   
+}
+#span {
+  display: inline;
+}
+#v_h1 {
+    color: rgb(35, 34, 112);
+    opacity: 20;
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 580px;
+    font-size: 50px;
+}
+#v_h2 {
+    color: rgb(90, 125, 160);
+    opacity: 20;
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 550px;
+    font-size: 30px;
+
+}
+#button_1 {
+    padding: 12px;
+    margin-left: 530px;
+    margin-top: 200px;
+    background-color: green;
+    width: 120px;
+    font-size: 25px;
+    cursor: pointer;
+    
+ }
+ 
+ #button_2 {
+    padding: 12px;
+    margin-left: 60px;
+    margin-top: 220px;
+    background-color: green;
+    width: 120px;
+    font-size: 25px;
+    cursor: pointer;
+}
